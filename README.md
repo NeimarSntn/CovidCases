@@ -10,9 +10,8 @@ Este projeto é um dashboard interativo que analisa os dados da pandemia de Covi
 ## Visualizações
 O dashboard contém as seguintes visualizações:
 - **Evolução de Novos Casos**: Gráfico de linhas mostrando a evolução dos casos diários de Covid-19.
-- **Óbitos Acumulados**: Um gráfico de barras que apresenta o número de óbitos acumulados ao longo do tempo.
-- **Taxa de Vacinação**: Gráfico de pizza ou barras sobre a porcentagem da população vacinada.
-- **Mapa Interativo de Casos**: Mapa com a distribuição geográfica dos casos de Covid-19.
+- **Óbitos**: Um gráfico de barras que apresenta o número de óbitos ao longo do tempo.
+- **Mapa Interativo de Mortes**: Mapa com a distribuição geográfica de mortes de Covid-19.
 - **Indicadores Principais**: KPIs como total de casos, óbitos e pessoas vacinadas.
 
 ## Link para o Dashboard
